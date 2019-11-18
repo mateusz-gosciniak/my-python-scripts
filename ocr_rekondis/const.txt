@@ -1,0 +1,3 @@
+PYTHONPATH - C:\Users\goscima\AppData\Local\Programs\Python\Python36\python.exe
+SCRIPTPATH - C:\Users\goscima\Desktop\workspace\py\SimpleOCRtoRekondis.py
+OCRANNMODEL - C:\Users\goscima\Desktop\workspace\py\ocr-net\ocr-net.ckpt.pb

@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\goscima\\Desktop\\workspace\\ocr-net\\ocr-net.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\goscima\\Desktop\\workspace\\ocr-net\\ocr-net.ckpt"
